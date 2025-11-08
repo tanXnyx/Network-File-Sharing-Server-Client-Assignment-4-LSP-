@@ -14,9 +14,9 @@ The client connects to the server, sends data, and logs the transfer process.
 Network_File_Sharing_Server_And_Client/
 ├── Data/
 │ ├── Client/
-│ │ └── Client_Text.txt
+│ │ └── client_text.txt
 │ └── Server/
-│ └── Server_Text.txt
+│ └── server_text.txt
 ├── include/
 │ ├── client.h
 │ ├── logging.h
